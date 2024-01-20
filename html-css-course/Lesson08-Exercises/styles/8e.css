@@ -1,0 +1,43 @@
+p, input, button {
+    font-family: Arial;
+}
+
+p {
+    font-size: 28px;
+}
+
+input {
+    display: block;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 250px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(237, 237, 237);
+    border: none;
+}
+
+button {
+    margin-top: 20px;
+    border: none;
+    padding-left: 14px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-right: 14px;
+    font-size: 12px;
+    margin-right: 15px;
+}
+
+.button1 {
+    color: white;
+    background-color: black;
+
+}
+
+.button2 {
+    color: black;
+    background-color: rgb(237, 237, 237) ;
+
+}
