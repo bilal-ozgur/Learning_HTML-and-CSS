@@ -1,0 +1,38 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(116, 56, 154);
+}
+
+p {
+    color: white;
+    margin-left: 10px;
+    font-family: Arial;
+    margin-right: 10px;
+}
+
+button {
+    background-color: rgb(116, 56, 154);
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    color: white;
+    border-radius: 3px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 14px;
+    padding-left: 14px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+input {
+    border-radius: 20px;
+    border: none;
+    height: 30px;
+    flex: 1;
+    padding-left: 18px;
+    max-width: 400px;
+}
