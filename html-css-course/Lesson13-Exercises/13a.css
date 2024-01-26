@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+}
+
+.item1 {
+    background-color: lightpink;
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.item2 {
+    background-color: lightblue;
+    width: 200px;
+}
+
+p {
+    color: white;
+    background-color: black;
+}
